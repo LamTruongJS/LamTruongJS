@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lê Lâm Trường</h1>
 <h3 align="center">I 'm a frontend developer from Nha Trang city</h3>
 
-- 🔭 I’m currently working on **Nha Trang University**
+- 🔭 I’m currently studying on **Nha Trang University**
 
 - 🌱 I’m currently learning **developer knowledge**
 
