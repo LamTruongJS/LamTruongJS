@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **truongle.281000@gmail.com**
 
-- ⚡ Fun fact **0905172802**
+- ⚡ Call me **0905172802**
 
 
 <h3 align="left">Languages and Tools:</h3>
