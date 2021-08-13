@@ -12,5 +12,6 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: truongle.281000@gmail.com
 - ⚡ Fun fact: 0905172802
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LamTruongJS&theme=outrun&show_icons=true)
+
 
