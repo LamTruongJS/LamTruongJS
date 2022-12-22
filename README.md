@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **on GitHub**
 
-- 💬 Ask me about **JavaScript,ReactJS**
+- 💬 Ask me about **JavaScript, ReactJS, NodeJS, TypeScript**
 
 - 📫 How to reach me **truongle.281000@gmail.com**
 
